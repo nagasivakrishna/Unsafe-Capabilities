@@ -1,5 +1,5 @@
 
-# Unsafe Capabilities 
+# Unsafe Capabilities in binaries
 
 ## Overview
 
