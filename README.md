@@ -11,7 +11,7 @@ This is a simple Bash script that checks for potentially unsafe capabilities tha
 - Scans the entire filesystem for the presence of these capabilities.
 - Highlights the identified capabilities in color for better visibility.
 
-## Unsafe Capabilities Included
+## Unsafe Capabilities being checked
 
 The following capabilities are checked by the script in v1.0:
 
